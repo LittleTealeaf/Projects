@@ -1,6 +1,11 @@
 # Projects
 Hi! This repository serves as a database to help navigate my endless maze of repositories on Github. As you might know, I am a Student at Quinnipiac University, and I like to post many of my projects on Github to make use of syncronizing between devices, sharing to colleagues, or submitting as assignments.
 
+## Projects
+| Project | Languages and Frameworks | Description |
+| :---: | :---: | :--- |
+| [Pace Manager](https://www.github.com/LittleTealeaf/paceManager) | Java | A long-term project that I've been working on to replace a spreadsheet used to calculate winners at a local horse event. Along the journey, I've restarted the project multiple times, trying to learn something new and use a different utility each time.|
+
 ## Courses
 Below is a list of the courses I've taken, and a link to a separate markdown file detailing repositories and projects that pertain to that course
 
